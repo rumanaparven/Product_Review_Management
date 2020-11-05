@@ -1,0 +1,13 @@
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.exe
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.deps.json
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.runtimeconfig.json
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.runtimeconfig.dev.json
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.dll
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\bin\Debug\netcoreapp3.1\Product_Review_Management.pdb
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.csprojAssemblyReference.cache
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.AssemblyInfoInputs.cache
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.AssemblyInfo.cs
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.csproj.CoreCompileInputs.cache
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.dll
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.pdb
+C:\Users\RUMANA\source\repos\Product_Review_Management\Product_Review_Management\obj\Debug\netcoreapp3.1\Product_Review_Management.genruntimeconfig.cache
