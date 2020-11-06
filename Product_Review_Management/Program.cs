@@ -34,7 +34,8 @@ namespace Product_Review_Management
             //management.TopRecords(productReviewList);
             //management.SelectedRecords(productReviewList);
             //management.RetrieveCountOfRecords(productReviewList);
-            management.RetrieveReviewGroupByProductID(productReviewList);
+            //management.RetrieveReviewGroupByProductID(productReviewList);
+            management.SkipTopFiveRecords(productReviewList);
         }
     }
 }
