@@ -33,7 +33,8 @@ namespace Product_Review_Management
             Management management = new Management();
             //management.TopRecords(productReviewList);
             //management.SelectedRecords(productReviewList);
-            management.RetrieveCountOfRecords(productReviewList);
+            //management.RetrieveCountOfRecords(productReviewList);
+            management.RetrieveReviewGroupByProductID(productReviewList);
         }
     }
 }
